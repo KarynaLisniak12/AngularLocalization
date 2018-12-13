@@ -1,5 +1,7 @@
 {
     "Title": "First localization app!",
     "Hello": "Hello. i`m Karyna",
-    "Dashboard": "Dashboard works"
+    "Dashboard": "Dashboard works",
+    "Profile": "Profile works",
+    "PagesModule": "Pages Module"
 }
